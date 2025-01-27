@@ -1,0 +1,48 @@
+<HTML>
+<HEAD>
+<TITLE> ALACAMI Main </TITLE>
+</HEAD>
+<BODY>
+
+<H1>THE ALACAMI IN KADIRLI</H1>
+
+<HR ALIGN=left>
+<IMG SRC="file:///i|/images/poster/1.jpg" WIDTH=650 HEIGHT=380>
+<H2>THE SITE</H2> <P>
+The Alacami is the last surviving free-standing monument of antique Flaviopolis/Flavias, now the modern town of Kadirli on the fringes of the Cilician Plain. It remains display over a millennium and a half of local history in several transitional building phases. A late 5th/early 6th century basilica was built from a variety of reused architectural elements, modified in the medieval period with the addition of a small chapel to the apse and finally converted into a mosque in the late 15th century.
+<P>Late in 1997 a three week season of survey and excavation was conducted at the site under the auspices of the Karatepe permit and with the support of Professor Dr. Halet Çambel. The primary objective of the project was to clarify the chronology and extent of the structural phases, from the possible pre-existence of an earlier building to the insertion of the chapel. 
+
+
+<H2>THE EXCAVATIONS AND SURVEY 1997</H2>
+<P>The form and external decoration of the basilica is characteristic of an Eastern Cilician building tradition prevalent in the late 5th and 6th centuries. This allowed the reconstructed elements to be informed through well-established and local comparisons in Cilicia and northern Syria.
+<P>Between the 12th and the mid 13th centuries the organisation of the building was entirely transformed. The great apse was incorporated into a small but well built chapel which reused the basilica walls as a compound.
+<P>The fine preservation and clear structural definition of the Alacami phases made a reconstruction of the site an achievable goal. The simulated removal of the medieval and Moslem phases, together with the insertion of the colonnades and clerestory dramatically transforms the "feel" of the building. The basilica suddenly has a heightened sense of verticality and the vistas have a clarity which was hard to envisage at the site since the later modifications had imposed a such a great shift of architectural focus.
+<P>In its initial stages the Alacami project is not seeking to develop new approaches to the computer aided reconstruction of ancient buildings. There is nothing new about either the modelling strategy, the type of data sources, or the final product. Yet this is an example of well established techniques employed as a tool for the display and interpretation of field results and research conclusions from an ongoing project
+<P>The task of producing the model raised many archaeological and architectural questions which would not have been so immediate from a plan, but which . How were the galleries accessed? What was the composition of the overall roofing system? How did the terracing of the site relate to the internal architectural composition? Hence the modelling generated questions that it was later possible to investigate on site.
+<P>With the increasing trend towards spatial theory over connoisseurship in discussing the ancient built environment, the two dimensional, black & white site plan is proving inadequate as the interpretative medium. The body-centric experience of architectural space requires the mental reconstruction of buildings, landscapes and vistas, much of which it is now possible to model and adapt to a variety of environmental scenarios. This frees the archaeologist's mind to explore the relationship of the human experience to the articulated space with more clarity.
+
+
+<H2>THREE-DIMENSIONAL MODELLING AIMS AND METHODOLOGY</H2>
+<P>The three dimensional modelling strategy has two principal stages. This presentation features the results of stage 1; to produce a detailed reconstruction of the first phase basilica. The data sources were as follows:
+	1) Photogrammetric recording of exterior walls (completed in 1996 by Halet Çambel).
+	2) A structural and topographical Total Station Survey of the site (completed in 1997).
+	3) Excavations of the west steps, subterranean chamber and the chancel area (completed in 1997).
+	4) 1:1000 digitised map data of the local environment.
+	5) On-site photography for textures and bump surfaces.
+	6) 1960s paintings of the excavated mosaics.
+	7) Comparative research into the contemporary regional architecture.
+In stage 2 the Alacami model will employed as the template for ongoing research into virtual worlds, being carried out by Glyn Goodrick at the University of Newcastle upon Tyne. The long term research aim is to produce a dynamic, inhabited and interactive architectural entity where many of the environmental variables can be defined by the observer as an avatar within the space.
+<P>It was important not to present the model as a "true" image of the original basilica. A virtual/real-world composition is one way of demonstrating this graphically. To further emphasise the reconstructed elements the photogrammetric elevations were mapped onto the modelled walls.
+<P>Mosaics in situ. A) Inside the tripartite narthex B) The south side-chamber mosaic, with the apse on the left. The basilica was richly adorned with mosaics, both inside and out, some of which remain well preserved. Many were exposed and recorded by Professor Çambel in 1960 and their continued preservation will be the concern of a future project. The significance of a mosaic is traditionally judged on its art historical or aesthetic qualities and the importance of context often becomes marginalised. Displaying the mosaics within the modelled architectural space underlines the importance of positioning and spatial significance in the decoration of interior space. This is particularly the case for a church where different architectural zones are charged with meaning by the liturgy and processional movement that takes place within them. 
+<P>The Alacami was registered as an historic monument in 1977. Nevertheless there has been great controversy in recent years over plans to renovate and reopen the building as a mosque. Perhaps the most significant outcome of the renewed archaeological interest at the site is that its public profile has been significantly raised and people's interest aroused. Within this scenario we have discovered the value and efficacy of computer reconstruction, visualisations and interactive demonstrations in the interface between archaeology and public interest. The future of the site is still in the balance, while Professor Çambel continues to fight in the highest places to secure the recognition of the Alacami as a site of major archaeological significance.
+<P><P>
+<H2>ACKNOWLEDGEMENTS</H2>
+<P>The fieldwork was carried out in collaboration with Professor Dr. Halet Çambel's ongoing work at Karatepe. Professor Çambel very kindly offered her archive material for the purposes of this work. We were generously supported in 1997 by the British Institute of Archaeology at Ankara and the University of Newcastle upon Tyne. 
+For further Information:
+Bayliss, R (1997) The Alacami in Kadirli: Transformations of a sacred monument. Anatolian Studies XLVII: 57-87.
+Çambel, H (1997) Alacami. Türkiyemiz 81, May 1997, 42-53 [magazine on Turkish culture published by Akbank]. 
+Contact r.a.bayliss@ncl.ac.uk
+Artwork and printing by Arlene Rankin of Ravensworth Design, Newcastle upon Tyne.
+
+</BODY>
+</HTML>
